@@ -1,0 +1,11 @@
+---
+cert_folder: "./certs"
+country: Country Name
+organization: ConfigService
+organizational_unit: Engineering
+locality: Mountain
+province: Asia
+street_address: Bridge
+postal_code: 123456
+dns: 192.168.177.129
+name: Client Test
