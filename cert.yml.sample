@@ -7,5 +7,6 @@ locality: Mountain
 province: Asia
 street_address: Bridge
 postal_code: 123456
-dns: 192.168.177.129
-name: Client Test
+dns: 0.0.0.0
+name: Sample Name
+to_pkcs12: Yes

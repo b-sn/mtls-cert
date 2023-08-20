@@ -1,4 +1,5 @@
 *.crt
 *.key
+*.pem
 *.yml
 certs/
